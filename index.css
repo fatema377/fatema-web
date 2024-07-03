@@ -1,0 +1,10 @@
+.back {
+    background-image: url('download.jfif') ;
+    /*background-color: blue;8
+    */
+height: 120px; padding: 20px;
+color: rgb(254, 9, 9);
+margin: 20px;
+text-align: center;
+font-size:bigger;
+}
