@@ -8,3 +8,10 @@ margin: 20px;
 text-align: center;
 font-size:bigger;
 }
+.ph {
+    color: blueviolet;
+    background-color: antiquewhite;
+    border: 5px solid yellow;
+    padding: 5px;
+    box-shadow: 18px 18px 18px blueviolet ;
+}
