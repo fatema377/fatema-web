@@ -11,9 +11,9 @@ font-size:bigger;
 .ph {
     color: blueviolet;
     background-color: antiquewhite;
-    border: 5px solid yellow;
+    
     padding: 5px;
-    box-shadow: 18px 18px 18px blueviolet ;
+    box-shadow: 5px 5px 5px blueviolet ;
 }
 .info {
     color: blue;
@@ -22,7 +22,27 @@ font-size:bigger;
 }
 #from {
     color: rgb(223, 22, 22);
-    background-color: darkgray;
+    background-color: rgb(252, 247, 247);
     font-style: oblique;
     font-size: bolder;
+}
+.footer{
+    margin: 20px;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    background-color: rgb(236, 244, 241);
+    border-radius: 2px;
+}
+.fot-txt{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(72, 7, 7);
+}
+.icon > a{
+    margin: 20px;
+}
+*{
+    margin: 20px;
 }
